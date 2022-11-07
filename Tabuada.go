@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-const a = 10
-
 func main() {
 	fmt.Println("****Tabuada em Go!****")
 	for i := 1; i <= 10; i++ { //primeiro laço fará 10 repetições
